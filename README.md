@@ -1,16 +1,13 @@
-## Hi there 👋
+# Alexander Wang
 
-<!--
-**AlexZcWang/AlexZcWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**我是谁？** 一名积极探索前沿领域的高中学生，今年十六岁。
+### 📧 联系方式
+如果你想要和我联系，请发送邮件到我的邮箱
+`alexzcwang@outlook.com`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Who am I?** A 16-year-old high school student actively exploring frontier fields.
+### 📧 Contact
+If you would like to get in touch, please send an email to:
+`alexzcwang@outlook.com`
